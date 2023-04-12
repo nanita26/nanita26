@@ -1,0 +1,37 @@
+@media (max-width: 1145px) {
+  .video .description {
+    display: inline-block;
+    height: 90px;
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 1090px) {
+  iframe {
+    height: 270px !important;
+  }
+}
+
+@media (max-width: 770px) {
+  .video .description {
+    display: inline-block;
+    height: 68px;
+    overflow: hidden;
+  }
+}
+
+@media (max-width: 720px) {
+  iframe {
+    height: 235px !important;
+  }
+}
+
+@media (max-width: 500px) {
+  iframe {
+    height: 195px !important;
+  }
+
+  header input {
+    width: 210px;
+  }
+}
