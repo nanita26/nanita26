@@ -3,7 +3,7 @@ $(document).ready(function () {
   function searchVideo(q, maxResults) {
     var data = {
       maxResults : maxResults,
-      key : " ",
+      key : "AIzaSyBql7EhrwA3jPs9xkSrh7U19HI-2DsQM5Q ",
       part : "snippet",
       q : q,
       type : "video"
